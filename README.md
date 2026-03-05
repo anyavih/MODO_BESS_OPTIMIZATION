@@ -1,7 +1,7 @@
 # ERCOT BESS Co-Optimization Benchmark: Actuals vs. Perfect Foresight (RTC+B)
 
 ## The Brief
-This model benchmarks historical BESS operations in ERCOT against a perfect-foresight optimization model. The motivation behind this model is to anayze the new **Real-Time Co-optimization plus Batteries (RTC+B)** market design (which went live in ERCOT in December 2025) and compares the actual historical SOC to an optimized SOC where Ancillary values are included in the optimization objective generated. This will allow the user to quantify revenue leakage and evaluate operational efficiency under the new nodal realities.
+This model benchmarks historical BESS operations in ERCOT against a perfect-foresight optimization model. The motivation behind this model is to anayze the new **Real-Time Co-optimization plus Batteries (RTC+B)** market design (which went live in ERCOT in December 2025) and compare the actual historical SOC to an optimized SOC where ancillary values are included in the optimization objective generated. This will allow the user to quantify revenue leakage and evaluate operational efficiency under the new nodal realities.
 
 ## How to Run
 1. Clone this repository.
